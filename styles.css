@@ -5,3 +5,6 @@ p{
     color: red;
     font-family: 'Courier New', Courier, monospace;
 }
+input{
+    background-color: green;
+}
